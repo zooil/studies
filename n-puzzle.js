@@ -31,7 +31,7 @@ checkInversion = () => {
         for(let i=idx;i<nPuzzle.length;i++){
             if( checkNum > nPuzzle[i] ){
                 inversionCnt++;
-                console.log('(%d , %d)', checkNum, nPuzzle[i]);
+                console.log('%d - (%d , %d)', inversionCnt, checkNum, nPuzzle[i]);
             }
         }
     }
