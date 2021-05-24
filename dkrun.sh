@@ -1,3 +1,3 @@
 #!/bin/sh
 
-while true; do echo "still live"; sleep 1800; done
+docker run -d -v $PWD/nodejs:/app --name nodejs nodetest
