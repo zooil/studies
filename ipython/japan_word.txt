@@ -1,0 +1,6 @@
+japan	korean
+japan1	korean1
+japan2	korean1
+japan3	korean1
+japan4	korean1
+japan5	korean1
