@@ -1,0 +1,463 @@
+inhabit, 살다
+distinctive, 특유의
+vocalize, 노래하다
+constrict, 수축시키다
+anatomy, 조직
+larynx, 후두
+manipulate, 조작하다
+vocal cords, 성대
+vibrate, 진동하다
+membrane, 막
+vestibular fold, 가성대
+abiogenesis, 자연발생론
+assertion, 주장
+foster, 조성하다
+materialize, 나타나다
+avenue, 방법
+aphid, 진디
+subsist, 생활하다
+dew, 이슬
+cite, 언급하다
+maggot, 구더기
+decompose, 부패하다
+bale, 더미
+abiotic, 비생물적인
+lubricant, 윤활유
+viscosity, 점도
+inversely, 반대로
+proportionate, 비례하는
+commercial, 상업용의
+designation, 표시
+operate, 운전하다
+schizophrenia, 정신분열증
+mark, 특징짓다
+perceive, 인식하다
+indicative, 암시하는
+hallucination, 환각
+delusion, 망상
+distorted, 왜곡된
+acute, 심각한
+schizophrenic, 정신분열증 환자
+persecute, 학대하다
+inclination, 경향
+microbial bacteria, 세균성 미생물
+optimal, 최적의
+inadequate, 불충분한
+intake, 섭취
+inhospitable, 황폐한
+desiccation, 건조
+vulnerable, 취약한
+antibiotic, 항생의
+pathogenic, 병원성의
+force, 힘
+mass, 질량
+exert, 행사하다
+dependent, ~에 좌우되는
+respective, 각각의
+exercise, 발휘하다
+fitness, 적응도
+genotype, 유전자형
+reproductive, 번식의
+offspring, 자손
+sterile, 불임의
+progeny, 자손
+regime, 정권
+instill, 서서히 주입시키다
+patriotism, 애국심
+propaganda, 선전
+footage, 영상
+invoke, 불러내다
+commission, 주문하다
+chronicle, 기록하다
+intersperse, 중간중간 배치하다. 사이에 흩뿌리다
+statistic,  통계
+recruit, 모집하다
+literally, 문자그대로
+embody, 포함하다
+collaboration,  협동
+consistent, 일관된
+adherence, 고수
+overly, 지나치게
+artificial, 인위적인
+fundamental, 기초
+incorporate, 포함하다. 넣다
+contradict, 모순되다
+accomplished, 뛰어난
+synchronize, 음성을 화면과 일치시키다
+communicate, 전달하다
+liguistic, 언어의
+transmit , 전달하다
+represent, 나타내다
+subtitle, 자막
+convey, 전달하다
+on-screen, 배역상의
+time consuming, 많은 시간이 걸리는
+literate, 글을 읽고 쓸줄 아는
+hibernation, 동면
+aquatic, 수생의
+breeding ground, 번식지
+utter, 소리를 내다
+amplexus, 포섭
+fertilize, 수정하다
+still, 흐르지 않는
+swell, 부풀다
+fragile, 약한
+embryo, 배아
+frog spwan, 개구리 알
+tadpole, 올챙이
+graduate, 시작하다
+alga, 조류. 해조
+gill, 아가미
+metamorphosis, 변태
+lung, 폐
+resemble, 닮다
+miniature, 작은
+coastal, 해안의
+locate, 위치시키다
+precipitaion, 강수량
+plateau, 고원
+geographic, 지리적인
+combine, 결합하다
+current, 해류
+cool, 차갑게 하다
+inhibit, 억제하다
+extremity, 끝
+easterly, 동쪽의
+condense, 응결하다
+shed, 떨어뜨리다
+virtually, 사실상
+fauna, 동물군
+arid, 건조한
+populate, 살다
+resilience, 복원
+scarce, 드문
+revenue, 수익
+assert, 주장하다
+immediate, 인접한
+halt, 멈추게 하다
+impetus, 동기 stimulus
+ruthless, 무자비한 harsh
+advent, 도래 arrival
+outlet, 배출구
+aspiring 포부가 있는
+submit, 제출하다
+periodical,  정기 간행물
+lyrical, 서정적인
+devotion, 헌신
+abandon, 버리다 relinguish
+allegorial, 우의적인
+urbane, 세련된 elegant
+adequate, 적절한 sufficient
+testament, 증거
+alter, 바꾸다 modify
+imitate, 모방하다 mimic
+conjure, 그리다
+perch, 새가 앉다
+stark, 황량한
+eerie, 오싹한 weired
+tremendous, 엄청난 huge
+unprecedented, 전에 없던
+replenish, 다시 채우다 restore
+impermeable, 불침투성의
+extract, 추출하다 withdraw
+anchor, 정박하다 hold in place
+secure, 고정하다 fasten
+accout for, 감안하다
+spin, 돌리다 rotate
+intend, 의도하다 design
+eventual, 최후의 final
+impurity, 불순물
+indicate, 나타내다 suggest
+principal, 주요한 main
+constituent, 성분 element
+dispose, 처리하다
+offset, 상쇄하다 balance
+meticulously, 꼼꼼하게 carefully
+deflect, 방향을 바꾸다
+intensive, 유인. 포상
+enhance, 높이다
+overall, 전반적인
+rudimentary, 원시의
+pit, 구덩이
+kiln, 화로
+marsupial, 유대류
+ample, 충분한. 넓은
+shelter, 거처
+feral, 야생의
+instinctive, 본능적인
+questionnarie, 질문지
+perceive, 지각하다. 인식하다
+examinee, 피험자
+aridity, 건조함
+severe, 어려운
+reside, 거주하다
+expire, 죽다
+site, 유적지
+inclusion, 포함
+predatory, 육식성의
+vegetation, 초목
+abundant, 풍부한
+employ, 쓰다
+tactics, 전략
+hydroelectric, 수력발전의
+generator, 발전기
+convert, 전환하다
+typically, 보통
+acquire, 습득하다. 획득하다
+renewable, 재생 가능한
+emission, 배출
+detrimental, 해로운
+relocate, 이전시키다
+occupy, 차지하다
+induce, 권유하다
+indigenous, 토착의
+continent, 대륙
+figurine, 작은 입상
+spiral, 나선형의
+signify, 의미하다
+sacred, 신성한
+integral, 없어서는 안될
+permafrost, 영구 동토층
+relevant, 관련있는
+formation, 형성
+radiate, 방출하다
+insignificant, 중요하지 않은
+ascribe, ~에 돌리다
+generate, 발생시키다
+manufacture, 제조하다
+appliance, 전기제품
+pollutant, 오염물질
+carbon dioxide, 이산화탄소
+collect, 쌓이다
+density, 밀도
+emerge, 드러나다
+camouflage, 위장
+inhabit, 서식하다
+potential, 잠재적인
+flounder, 도다리(물고기)
+refrain, 피하다
+modify, 바꾸다
+arctic, 북극의
+similarly, 비슷하게
+disguise, 위장하다
+possess, 소유하다
+bronze, 청동의
+blade, 칼날
+complex, 복잡한
+versatile, 융통성 있는. 다재다능한
+craftsman, 장인
+human sacrifice, 인싱 공양
+conduct, 수행하다
+attempt, 시도
+generally, 일반적으로. 대체적으로
+utopian, 이상향의
+description, 묘사
+archaeological, 고고학적인
+engineering, 토목기술
+multi-storied, 다층의
+extension, 확장
+forked, 갈래진
+in conjunction with, ~와 함께
+facilitate, 용이하게 하다
+hypothesis, 가설
+scent, 냄새
+prong, 뾰족한 끝
+trail, 흔적
+proposition, 주장
+sever, 절단하다
+unilateral, 일면적인
+flick, 혀를 날름거리다
+vast, 굉장한 huge
+penetrate, 통과하다 pierce
+immense, 막대한 enormous
+maneuver, 이동하다
+aid, 도움
+observe, 관찰하다 watch
+descent, 내려감 falling
+ascent, 오름
+determine, 알아내다 figure
+accumulate, 축적하다 collect
+entire, 전체의 whole
+examine, 관찰하다 inspect
+extraordinary, 굉장한 exceptional
+in an instant, 즉시
+indication, 징조
+at first glance, 얼핏보기에
+absence, 부재
+lack, 결핍
+indicate, 나태내다 imply
+detect, 감지하다
+remarkably, 매우
+serve, 역할을 하다
+excite, 자극하다 stimulate
+interpret, 해석하다 explain
+periphral, 주변적인 exterior
+approximate, 대략의
+notable, 유명한 outstanding
+adjacent, 가까운. 인접한
+expand, 팽창하다 swell
+contract, 수축하다
+presence, 존재. existence
+previously, 이전에
+urge, 촉구하다
+cautious, 조심하는 careful
+excuse, 핑계
+justify, 정당화하다
+postulate, 주장하다 claim
+presume, 추정하다
+reflect, 반영하다
+perceive, 지각하다 notice
+diminished, 감소된
+puctual, 시간을 잘 지키는
+tendency, 경향 trend
+diligently, 부지런히 industriously
+stem, 비롯하다
+engage, 참여하다
+aggressive, 공격적인 offensive
+posture, 자세
+prone, ~하기 쉬운 susceptible
+irrational, 비이성적인
+instantaneously, 즉시에
+emphasize, 강조하다 stress
+perspective, 시점 view
+injustice, 불평등
+discrepancy, 모순
+incline, ~하는 경향이 있다
+associate, 연관시키다
+invert, 전도하다
+ascribe, 탓하다 attribute
+insufficient, 불충분한
+magnify, 확대하다
+instill, 스며들다
+boost, 돋우다 increase
+discouragement, 낙심
+lead to, ~으로 이어지다
+diversity, 다양성
+waiting list, 대기자 명단
+turn into, ~으로 변하다
+immediately, 바로
+physically, 물리적으로
+malfunction, 오작동
+circulation, 유통
+late fee, 연체료
+get in touch with, ~에게 연락하다
+upcoming, 다가오는
+asteroid, 소행성
+impact, 충돌
+allot, 할당하다
+stuff, 자료
+collision, 충돌
+omit, 생략하다
+pointer, 조언
+crater, 분화구
+frequency, 빈도
+destroy, 멸종시키다
+set aside, 제쳐놓다
+predator, 포식자
+tactic, 전략
+background matching, 배경에 맞추다
+blend, 섞이다
+pacific octopus, 참문어
+coral, 산호
+prey, 먹이
+surrounding, 주변 환경
+stand out, 도드라지다
+resemble, 닮다
+mimic, 모방하다
+vein, 식물의 잎맥
+marking, 무늬
+caterpillar, 애벌레
+imitate, 모방하다
+edge, 가장자리
+composition, 구성요소
+sunspot, 흑점
+patch, 반점
+expand on, ~에 대해 더 상세하게 말하다
+magnetic storm, 자기 폭풍
+across, 직경으로
+rotation, 자전
+equator, 적도
+pole, 극(천체/지구의)
+distort, 일그러뜨리다
+magnetic field, 자기장
+break through, ~을 뚫고 지나가다
+solar flare, 태양면 폭발
+magnetic force, 자력
+go off, 터지다
+electrically charged particle, 대전입자
+ritual, 종교적인 의식
+priority, 우선권
+time slot, 시간대
+ecosystem, 생태계
+perspire, 땀을 흘리다
+dormancy, 휴면
+prototypical, 대표적인
+give birth to, ~를 낳다
+fluctuate, 변동하다
+reserve, 저장물
+awareness, 의식
+foreground, (그림/사진의) 전경
+decorative, 장식용의
+still life, 정물화
+voyage, 항해
+appreciate, 진가를 인정하다
+butcher, 푸주간
+obsess, 사로잡다
+diminish, 줄어들다
+afford, ~를 살 여유가 있다
+nobleman, 귀족
+illusion, 환상
+broaden, 넓히다
+dabble in, 한번 해 보다
+theorectical, 이론적인
+keep up with, ~를 따라가다
+in the dark, 모르는
+stick to, 계속하다
+demonstrate, (증명해) 보이다
+financial aid, 학비 지원
+tutorial, 개별 지도의
+advanced, 고급 단계의
+undergraduate, 학부생
+screen, 선발하다
+appropriately, 제대로
+give it a try, 한번 시도해 보다
+contribute, 공헌하다
+printing press, 인쇄기
+sticky, 끈적거리는
+stepping stone, 발판
+precede, 앞서다
+movable type, 가동 활자
+detachable, 분리할 수 있는
+punctuation mark, 문장 부호
+unquestionably, 의심할 나위 없이
+durable, 내구성 있는
+scribe, 필경사
+tedious, 지루한
+mold, 주형
+carve, 조각하다
+hydrology, 수문학
+application, 응용
+snowmelt, 해빙
+significant, 상당한
+runoff, 유거수(땅위를 흐르는 빗물)
+constitute, 차지하다
+cache, 저장소
+measurement, 측정
+resident, 거주자
+disaster, 재해
+project, 예측하다
+shortfall, 부족
+adjustment, 조정
+shortage,  부족
+modify, 조절하다
+cultivate, 경작하다
+conservation, 비축
+measure, 대책
+variable, 변수
+elevation, 고도
+moisture, 습기
+content, 함유량
+partially, 부분적으로
+crust, 표면
+seep into, ~로 스며들다
+surface water, 지표수
