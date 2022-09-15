@@ -15,7 +15,8 @@ def checkWord():
 	lineLen	= len(lines)
 	randNum	= random.randint(0,lineLen-1)
 	wordList= lines[randNum].strip().split(',')
-#	wordList[0].strip()
+	wordList[0] = wordList[0].strip()
+	wordList[1] = wordList[1].strip()
 	print(wordList,'\n')
 	f.close()
 
