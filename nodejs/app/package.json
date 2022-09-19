@@ -1,0 +1,14 @@
+{
+	"name": "rest-api-docker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"author": "zooil",
+	"scripts": {
+		"start": "node app.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
