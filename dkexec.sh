@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker exec -it nodejs sh
+docker exec -it $1 sh

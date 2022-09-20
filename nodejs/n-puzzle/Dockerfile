@@ -1,7 +1,7 @@
 FROM node:12-alpine
 
 COPY run.sh /
-RUN chmod a+x /run.sh
-CMD [ "/run.sh" ]
 
-EXPOSE 3000
+RUN chmod a+x /run.sh
+
+CMD [ "/run.sh" ]
