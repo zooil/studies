@@ -1,9 +1,14 @@
-const express = require('express');
-const app = express();
+//const express = require('express');
+const fs = require('fs')
+const os = require('os')
+const notes = require('./notes.js');
 
-app.get('/', (req, res) => res.send('Hello, World333'));
+var user = os.userInfo();
+console.log(notes.age);
 
-app.listen(3000, () => {
-	console.log('My REST Api Running on port 3000!');
-})
+//fs.appendFileSync('greetings.txt', 'Hello ' + user.username + ' world!');
+//fs.appendFileSync('greetings.txt', `Hello ${user.username}`);
+
+
+
 

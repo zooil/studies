@@ -1,2 +1,3 @@
 pydata-book/
 node_modules/
+__pycache__
