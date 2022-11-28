@@ -14,12 +14,12 @@ const productRoute = require('./routes/product');
 const app = express();
 
 app.use(express.json({
-	limit: '50mb'
+limit: '50mb'
 }));
 
 app.listen(3000, () => {
-	console.log('Server started. port 3000');
-})
+		console.log('Server started. port 3000');
+		})
 
 app.use('/customer', customerRoute);
 app.use('/product', productRoute);
