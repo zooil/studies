@@ -1,0 +1,27 @@
+<h1>About Meadowlark Travel</h1>
+
+<p>Your fortune for the day:</p> 
+<blockquote>{{fortune}}</blockquote>
+{{#if isLogged}}
+Logout
+{{else}}
+Login
+{{/if}}
+{{#each users}}
+<span>{{this}}</span>
+{{/each}}
+
+{{!--
+<p>
+{{#each kv as |key value|}}
+<span>{{key}}: </span>
+<span>{{value}}</span><p>
+{{/each}}
+--}}
+
+<p>
+{{#each kv}}
+<span>{{@key}}: </span>
+<span>{{this}}</span><p>
+{{/each}}
+
